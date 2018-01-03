@@ -20,3 +20,5 @@ Keep in mind you may have trouble finding a role that feels right to you. That's
 Be sure the save the five links to companies here.
 
 Also - WAIT before applying to the roles! Term 5, we'll review crucial best practices in cover letters, getting warm leads of recruiters, and interviews. Without this knowledge you are significantly hurting your chances of getting hired. If you are still antsy to apply, talk to your coach.
+
+Congrats! You are now done with the introspection portion of the job search. Next is out Outcomes Workshop on Feb 19-20th where we'll level up our Resume and LinkedIn.
