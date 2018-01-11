@@ -5,8 +5,7 @@ slug: five-companies
 
 You have reached the final tutorial before our two day Outcomes workshop. During the workshop we'll prep our Resume, LinkedIn, and Personal Odyssey - the foundational documents you'll need for your search.
 
-Before the workshop, let's get a little experience finding roles that interest you.
-
+Before the workshop, let's get a little experience finding roles that interest you. You will use these roles to help craft your resume.
 
 # Find 5 jobs
 
@@ -19,6 +18,6 @@ Keep in mind you may have trouble finding a role that feels right to you. That's
 
 Be sure the save the five links to companies here.
 
-Also - WAIT before applying to the roles! Term 5, we'll review crucial best practices in cover letters, getting warm leads of recruiters, and interviews. Without this knowledge you are significantly hurting your chances of getting hired. If you are still antsy to apply, talk to your coach.
+Also, do NOT apply to these roles yet! Term 5, we'll review crucial best practices in cover letters, getting warm leads of recruiters, and interviews. Without this knowledge you are significantly hurting your chances of getting hired. If you are still antsy to apply, talk to your coach.
 
 Congrats! You are now done with the introspection portion of the job search. Next is out Outcomes Workshop on Feb 19-20th where we'll level up our Resume and LinkedIn.

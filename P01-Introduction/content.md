@@ -10,13 +10,13 @@ Now it is time to think about your summer.
 
 Over the next terms we'll help you become a stellar job applicant.
 
-I'll begin by scoping out our work together for the coming months. This will give you a high level view of the job search process. If it seems like a lot to manage, don't worry. We'll cover each components together over the coming months.
+I'll begin by scoping out our work together for the coming months. This will give you a high level view of the job search process. It may seems like a lot to manage, don't worry. We'll cover each components together over the coming months.
 
 Take a look at this *Outcomes Mastery Tree*.
 
 ![Outcomes Mastery Tree](assets/outcomes-mastery-tree.ai "Outcomes Mastery Tree")
 
-The **Outcomes Mastery Tree** offer's a snap shot of everything you need to do to get a job. It may seem overwhelming at first, but have no fear. Our core classes, outcomes workshops, and coaching sessions will ensure that you complete everything on time and in the right order.  Along the way, you can use the Outcomes Mastery Tree to check off tasks as you complete them #gameification!
+The **Outcomes Mastery Tree** offer's a snap shot of everything you need to do to get a job. It may seem overwhelming at first, but have no fear. Our core classes, outcomes workshops, and coaching sessions will ensure that you complete everything on time and in the right order.  Along the way, you can use the Outcomes Mastery Tree to check off tasks as you complete them. #gameification!
 
 The Mastery Tree also **charts the order in which to complete the steps**. It is crucial that you accomplish everything in this order since the content builds on itself.
 
@@ -55,6 +55,6 @@ These tutorial teach you more than finding a job. It's about advocating for your
 
 # Where do we go from here?
 
-Before we jump in, let's take a diagnostic on our current skills sets.
+Before we jump in, let's take a diagnostic on our current skills sets. This will help you understand which companies and roles match your current skills.
 
-Specifically, we'll evaluate our current level of job readiness, company fit.
+Specifically, we'll evaluate our current level of job readiness and company fit.
