@@ -12,9 +12,10 @@ Over the next terms we'll help you become a stellar job applicant.
 
 I'll begin by scoping out our work together for the coming months. This will give you a high level view of the job search process. It may seems like a lot to manage, don't worry. We'll cover each components together over the coming months.
 
+## Our work path
 Take a look at this *Outcomes Mastery Tree*.
 
-![Outcomes Mastery Tree](assets/outcomes-mastery-tree.ai "Outcomes Mastery Tree")
+![Outcomes Mastery Tree](assets/outcomes-mastery-tree.pdf "Outcomes Mastery Tree")
 
 The **Outcomes Mastery Tree** offer's a snap shot of everything you need to do to get a job. It may seem overwhelming at first, but have no fear. Our core classes, outcomes workshops, and coaching sessions will ensure that you complete everything on time and in the right order.  Along the way, you can use the Outcomes Mastery Tree to check off tasks as you complete them. #gameification!
 
@@ -22,7 +23,7 @@ The Mastery Tree also **charts the order in which to complete the steps**. It is
 
 Let's walk through it. (watch the video or read a summary below)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=6rT00QXqZak)
+![ms-video-youtube]()
 
 ## Top Row: Shipped products
 The top row of the Mastery Tree is your **portfolio**. Your Github and shipped products are the foundational content that recruiters will use to assess your talents as an engineer. These, more than anything else, demonstrates your ability to build high quality products.
