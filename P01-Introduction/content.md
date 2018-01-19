@@ -15,7 +15,7 @@ I'll begin by scoping out our work together for the coming months. This will giv
 ## Our work path
 Take a look at this *Outcomes Mastery Tree*.
 
-![ms-pdf](assets/outcomes-mastery-tree.pdf "Outcomes Mastery Tree")
+![Outcomes Mastery Tree](assets/outcomes-mastery-tree.jpg "Outcomes Mastery Tree")
 
 The **Outcomes Mastery Tree** offer's a snap shot of everything you need to do to get a job. It may seem overwhelming at first, but have no fear. Our core classes, outcomes workshops, and coaching sessions will ensure that you complete everything on time and in the right order.  Along the way, you can use the Outcomes Mastery Tree to check off tasks as you complete them. #gameification!
 
