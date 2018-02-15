@@ -23,7 +23,7 @@ The Mastery Tree also **charts the order in which to complete the steps**. It is
 
 Let's walk through it. (watch the video or read a summary below)
 
-![ms-video-youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![ms-video-youtube](https://www.youtube.com/embed/dQw4w9WgXcQ)
 
 ## Top Row: Shipped products
 The top row of the Mastery Tree is your **portfolio**. Your Github and shipped products are the foundational content that recruiters will use to assess your talents as an engineer. These, more than anything else, demonstrates your ability to build high quality products.
