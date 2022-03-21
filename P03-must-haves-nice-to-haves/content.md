@@ -1,9 +1,6 @@
----
-title: "Must-Haves and Nice-To-Haves"
-slug: must-haves
----
+# "Must-Haves and Nice-To-Haves"
 
-Great! You've filled out the rubrics. You now have a sense of where you stand in the job marketplace.
+Great!
 
 Before we look for jobs, we need to do a bit more introspection.
 
@@ -28,3 +25,5 @@ Take some time to list out your "nice to haves".
 Here's a [list](https://docs.google.com/document/d/1WxcrXA-_M3t-iYLfrGv4MYDSczbNSHRBndk8QPLvgTg/edit) of "Must Haves and Nice to Haves that were brainstormed by a previous class. Compare it to your list, and update your own.
 
 Now you have a solid foundation from which to evaluate job fit. Let's move onward to our next phase of the process ...
+
+# [Click Next Section ...](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P04-five-companies/content.md)
