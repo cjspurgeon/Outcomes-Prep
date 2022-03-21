@@ -1,7 +1,5 @@
----
-title: "Rubrics"
-slug: rubrics
----
+# SKIP!!!!!!
+
 Our focus for Term 3 is gaining a clearer vision of where you'd like to work.
 
 Your company fit will come from a combination of 1) your current skill level 2) your company interests and 3) your "must-haves" in a role.
