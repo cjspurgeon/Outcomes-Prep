@@ -1,11 +1,8 @@
----
-title: "Find 5 Roles"
-slug: five-companies
----
+# Find 5 Roles
 
 You have reached the final tutorial before our two day Outcomes workshop. During the workshop we'll prep our Resume, LinkedIn, and Personal Odyssey - the foundational documents you'll need for your search.
 
-Before the workshop, let's get a little experience finding roles that interest you. You will use these roles to help craft your resume.
+Let's get a little experience finding roles that interest you. You will use these roles to help craft your resume.
 
 # Find 5 jobs
 
@@ -16,8 +13,10 @@ To prepare for our full day outcomes workshop, find 5 job descriptions of compan
 
 Keep in mind you may have trouble finding a role that feels right to you. That's ok. Later we'll cover pro tips on how to find great companies. For now, this is just an exercise we will be building off of in the workshops.
 
-Be sure the save the five links to companies here.
+Be sure the save the five links to companies.
 
-Also, do NOT apply to these roles yet! Term 5, we'll review crucial best practices in cover letters, getting warm leads of recruiters, and interviews. Without this knowledge you are significantly hurting your chances of getting hired. If you are still antsy to apply, talk to your coach.
+Also, do NOT apply to these roles yet! Term 5, we'll review crucial best practices in cover letters, getting warm leads of recruiters, and interviews. Without this knowledge you are significantly hurting your chances of getting hired. If you are still antsy to apply, talk to Casey.
 
-Congrats! You are now done with the introspection portion of the job search. Next is out Outcomes Workshop on Feb 19-20th where we'll level up our Resume and LinkedIn.
+Congrats! You are now done with the introspection portion of the job search.
+
+# [Click Section section](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P01-Resume/content.md)
