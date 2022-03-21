@@ -1,10 +1,8 @@
----
-title: "Introduction"
-slug: introduction
----
+# Introduction
+
 Congrats!
 
-You've made it to term 3 of Make School. Since September, you've shipped new products, learned new languages, and stretched yourself beyond what you thought possible.
+You've made it to term 4 of ACS. Since September, you've shipped new products, learned new languages, and stretched yourself beyond what you thought possible.
 
 Now it is time to think about your summer.
 
@@ -13,7 +11,7 @@ Over the next terms we'll help you become a stellar job applicant.
 I'll begin by scoping out our work together for the coming months. This will give you a high level view of the job search process. It may seems like a lot to manage, don't worry. We'll cover each components together over the coming months.
 
 ## Our work path
-Take a look at this *Outcomes Mastery Tree*.
+Take a look at this [*Outcomes Mastery Tree*](https://drive.google.com/file/d/1AH2dH1AC8BvRjdrReD_hKVlSdPheM4iW/view?usp=sharing).
 
 ![Outcomes Mastery Tree](assets/outcomes-mastery-tree.jpg "Outcomes Mastery Tree")
 
@@ -21,9 +19,7 @@ The **Outcomes Mastery Tree** offer's a snap shot of everything you need to do t
 
 The Mastery Tree also **charts the order in which to complete the steps**. It is crucial that you accomplish everything in this order since the content builds on itself.
 
-Let's walk through it. (watch the video or read a summary below)
-
-![ms-video-youtube](https://www.youtube.com/embed/dQw4w9WgXcQ)
+Let's walk through it.
 
 ## Top Row: Shipped products
 The top row of the Mastery Tree is your **portfolio**. Your Github and shipped products are the foundational content that recruiters will use to assess your talents as an engineer. These, more than anything else, demonstrates your ability to build high quality products.
@@ -44,10 +40,10 @@ We've structured interview preparation into the Make School calendar. These are 
 
 In term 3 you'll work one on one with your coach to and introspect on what jobs might be a good fit for you? What industries interest you? What are your "must have's" for roles?
 
-### Term 4: Two Day Bootcamp: Resume, LinkedIn, Interview
-We'll start term 4 with a two day Outcomes Bootcamp. You'll leave these days with an A+ resume, LinkedIn, and to tell your career story in a provocative, engaging way.
+### Term 4: Resume, LinkedIn, Interview
+We'll develop these in this class. You'll leave these days with an A+ resume, LinkedIn, and to tell your career story in a provocative, engaging way.
 
-### Term 5: Two Day Bootcamp: Cover Letter, Application
+### Term 5: Cover Letter, Application
 Term 5 will begin with a two day workshop on cover letters, finding companies, and applying. We'll also show how to get warm introductions to people in companies. You'll spend the rest of the term applying to companies.
 
 ## Life Long Skills
