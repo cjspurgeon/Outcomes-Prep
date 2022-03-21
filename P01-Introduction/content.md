@@ -55,3 +55,5 @@ These tutorial teach you more than finding a job. It's about advocating for your
 Before we jump in, let's take a diagnostic on our current skills sets. This will help you understand which companies and roles match your current skills.
 
 Specifically, we'll evaluate our current level of job readiness and company fit.
+
+# [Click Next Section ...](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P02-Rubrics/content.md)
