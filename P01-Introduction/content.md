@@ -56,4 +56,4 @@ Before we jump in, let's take a diagnostic on our current skills sets. This will
 
 Specifically, we'll evaluate our current level of job readiness and company fit.
 
-# [Click Next Section ...](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P02-Rubrics/content.md)
+# [Click Next Section ...](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P03-must-haves-nice-to-haves/content.md)
