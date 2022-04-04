@@ -16,7 +16,7 @@ When creating your must haves - don't be too picky. You are early in your career
 Make a list of "must-haves" for your current role.
 
 # Nice to haves
-Nice to Haves are qualities that you'd like to be part of your job but are not a **necessary** requirement. These might include free lunch, short commute, pet friendly, etc.
+Nice to Haves are qualities that you'd like to be part of your job but are not a **necessary** requirement. These might include free lunch, short commute, pet friendly, or fully remote in a post covid era etc.
 
 Take some time to list out your "nice to haves".
 
